@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="5.6.4">
+    <config>
+        <recursos>Libro0021</recursos>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <corfondo>8080FF</corfondo>
+        <corbanda>FFFF80</corbanda>
+        <cornavega>C0C0C0</cornavega>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <titulo>Herramientas TIC</titulo>
+        <autor>Blanca Poma Moya</autor>
+        <iden>BPM</iden>
+        <informe>0</informe>
+        <botonson>0</botonson>
+        <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="festejo.mp3" modo="1" >CORRECTO</correcto>
+        <incorrecto son="triste.mp3" modo="1" >INCORRECTO</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>38</tipo>
+              <imaxe>tablet.jpg</imaxe>
+              <forma>1</forma>
+              <texto><![CDATA[
+<p align="left">
+<font color="#080000" face="Arial" size="24">El módulo "Recursos Tecnológicos por Competencias" ofrece a los participantes la oportunidad de adquirir y aplicar conocimientos, habilidades y actitudes para la selección, uso e integración de herramientas digitales, plataformas virtuales y recursos de inteligencia artificial. A través de un enfoque práctico y orientado a competencias, los estudiantes desarrollarán un proyecto final que sintetice lo aprendido, demostrando su capacidad para diseñar experiencias educativas innovadoras,<br>
+interactivas y significativas.</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="2" >
+              <tipo>11</tipo>
+              <modo>3</modo>
+              <cousa nome="personas">people.png</cousa>
+              <cousa nome="problema">problema.jpg</cousa>
+              <cousa nome="llamada">publicidad.png</cousa>
+              <cousa nome="idea">OA01.jpg</cousa>
+              <cousa nome="laptop">design.jpg</cousa>
+        </paxina>
+        <paxina id="3" >
+              <tipo>19</tipo>
+              <imaxe>tablet.jpg</imaxe>
+              <texto><![CDATA[Dispositivo electrónico similar al celular]]></texto>
+              <resp texto="">tablet</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+    </libro>
+</lim>
